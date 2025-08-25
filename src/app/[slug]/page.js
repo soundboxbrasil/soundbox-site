@@ -90,7 +90,7 @@ export default async function Product({ params }) {
                         width={450}
                         height={450}
                         priority
-                        className="object-contain -rotate-6 transform"
+                        className="object-contain transform"
                     />
                 </div>
             </div>

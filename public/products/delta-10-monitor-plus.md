@@ -2,7 +2,7 @@
 slug: "delta-10-monitor-plus"
 title: "DELTA 10 MONITOR PLUS"
 bannerBg: "/images/hero.webp"
-bannerCover: "/products/delta-10-monitor-plus/DELTA-10-MON-CAIXA-SOUNDBOX-1-1024x1024.webp"
+bannerCover: "/products/PLACEHOLDER/placeholder.webp"
 
 variants:
   - title: "DELTA 10 MON. PLUS ATIVA"

@@ -11,7 +11,7 @@ function ProductVariant({ variant, index }) {
 
   return (
     <div className="py-12">
-      <div className="grid md:grid-cols-2 items-start gap-x-12 gap-y-8">
+      <div className="grid md:grid-cols-2 items-center gap-x-12 gap-y-8">
         {/* Coluna de Texto */}
         <div className={`space-y-10 ${textOrder}`}>
           <h2 className="text-3xl font-bold text-gray-900 tracking-wide">
@@ -47,9 +47,11 @@ function ProductVariant({ variant, index }) {
           </div>
         </div>
 
-        {/* Coluna da Galeria de Imagens */}
-        <div className={imageOrder}>
-          <ImageGallery images={variant.images} title={variant.title} />
+        {/* Coluna da Galeria de Imagens (CORRIGIDA) */}
+        <div className={`${imageOrder} flex justify-center w-full`}>
+          <div className="w-full max-w-[350px] sm:max-w-[400px]">
+            <ImageGallery images={variant.images} title={variant.title} />
+          </div>
         </div>
       </div>
     </div>

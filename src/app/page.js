@@ -24,7 +24,7 @@ export default function Home() {
               href={`/${slug}`}
               className="group flex flex-col bg-gray-50 rounded-lg p-6 border border-gray-200 hover:border-blue-500 hover:shadow-xl transition-all duration-300"
             >
-              {/* ÁREA DA FOTO DO PRODUTO QUE ESTAVA FALTANDO */}
+              {/* ÁREA DA FOTO DO PRODUTO */}
               <div className="w-full h-56 mb-6 relative bg-white rounded-md overflow-hidden flex items-center justify-center border border-gray-100">
                 <img
                   src={`/products/${slug}/banner.webp`}

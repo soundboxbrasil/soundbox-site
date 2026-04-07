@@ -1,9 +1,8 @@
 import { getProductSlugs, getProductBySlug } from "@/lib/products";
 import { notFound } from "next/navigation";
-import Image from "next/image";
-import ImageGallery from "@/components/ImageGallery"; // Importa o novo componente
+import ImageGallery from "@/components/ImageGallery";
 
-// --- Componente para a Seção de Detalhes da Variação ---
+// --- Componente para a Seção de Detalhes da Variação (PARTE DE BAIXO) ---
 function ProductVariant({ variant, index }) {
   const isEven = index % 2 === 0;
   const textOrder = isEven ? "md:order-1" : "md:order-2";
@@ -47,7 +46,7 @@ function ProductVariant({ variant, index }) {
           </div>
         </div>
 
-        {/* Coluna da Galeria de Imagens (CORRIGIDA) */}
+        {/* Coluna da Galeria de Imagens (FOTO MENOR - CORRIGIDA) */}
         <div className={`${imageOrder} flex justify-center w-full`}>
           <div className="w-full max-w-[350px] sm:max-w-[400px]">
             <ImageGallery images={variant.images} title={variant.title} />
@@ -58,7 +57,7 @@ function ProductVariant({ variant, index }) {
   );
 }
 
-// --- Página Principal do Produto ---
+// --- Página Principal do Produto (CAPA ESCURA LÁ EM CIMA) ---
 export async function generateStaticParams() {
   const slugs = getProductSlugs();
   return slugs.map((slug) => ({ slug }));
@@ -72,27 +71,26 @@ export default async function Product({ params }) {
 
   return (
     <main>
+      {/* BANNER TOPO COM A IMAGEM GIGANTE AGORA CONTROLADA */}
       <section
-        className="relative w-full h-[50vh] min-h-[400px] max-h-[550px] bg-gray-800 bg-cover bg-center"
+        className="relative w-full h-[50vh] min-h-[400px] max-h-[500px] bg-gray-800 bg-cover bg-center overflow-hidden"
         style={{ backgroundImage: `url(${product.bannerBg})` }}
       >
-        <div className="absolute inset-0 bg-gradient-to-r from-black/70 via-black/40 to-transparent" />
+        <div className="absolute inset-0 bg-gradient-to-r from-black/80 via-black/50 to-transparent" />
         <div className="relative z-10 h-full flex items-center">
             <div className="max-w-6xl mx-auto px-4 sm:px-6 w-full flex justify-between items-center">
+                {/* Título */}
                 <div className="max-w-md">
-                    <h1 className="text-white font-extrabold text-4xl sm:text-5xl md:text-6xl leading-tight"
-                        style={{ textShadow: '2px 2px 8px rgba(0,0,0,0.7)' }}>
+                    <h1 className="text-white font-extrabold text-4xl sm:text-5xl md:text-6xl leading-tight drop-shadow-lg">
                         {product.title.toUpperCase()}
                     </h1>
                 </div>
-                <div className="hidden md:block">
-                    <Image
+                {/* Imagem do Topo (CORRIGIDA: Presa numa caixa de 350px) */}
+                <div className="hidden md:flex justify-end items-center h-[350px] w-[350px]">
+                    <img
                         src={product.bannerCover}
                         alt={product.title}
-                        width={450}
-                        height={450}
-                        priority
-                        className="object-contain transform"
+                        className="object-contain h-full w-full drop-shadow-2xl"
                     />
                 </div>
             </div>

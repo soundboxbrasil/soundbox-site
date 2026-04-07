@@ -5,7 +5,7 @@ bannerBg: "/images/hero.webp"
 bannerCover: "/products/sb-4-6-ativa/banner.webp"
 
 variants:
-  - title: "SB 4.6 VERTICAL ATIVA"
+  - title: "SB 4.6 ATIVA"
     images:
       - "/products/sb-4-6-ativa/var1a.webp"
       - "/products/sb-4-6-ativa/var2a.webp"

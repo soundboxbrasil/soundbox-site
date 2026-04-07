@@ -28,5 +28,5 @@ variants:
       - { label: "CONSUMO MÁXIMO", value: "800W" }
       - { label: "COBERTURA HORIZONTAL", value: "140°" }
       - { label: "COBERTURA VERTICAL", value: "80°" }
-      - { label: "TRANSDUTORES", value: "4 ALTO FALANTE 6" 1 DRIVER TITÂNIO" }
+      - { label: "TRANSDUTORES", value: "4 ALTO FALANTE 6'' - 1 DRIVER TITÂNIO" }
       - { label: "VOLTAGEM", value: "110/220V - COM SISTEMA AVS (AUTOMÁTICO)" }

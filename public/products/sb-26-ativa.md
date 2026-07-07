@@ -11,8 +11,8 @@ variants:
       - "/products/sb-26-ativa/var2a.webp"
     dimensions:
       - { label: "ALTURA", value: "580 MM" }
-      - { label: "LARGURA", value: "220 MM" }
-      - { label: "PROFUNDIDADE", value: "300 MM" }
+      - { label: "LARGURA", value: "210 MM" }
+      - { label: "PROFUNDIDADE", value: "296 MM" }
       - { label: "PESO", value: "19 KG" }
     specs:
       - { label: "POTÊNCIA MÁXIMA", value: "500W (4 OHMS) 320W (8 OHMS)" }

@@ -10,7 +10,7 @@ variants:
       - "/products/impact-15-pro/var1a.webp"
       - "/products/impact-15-pro/var2b.webp"
     dimensions:
-      - { label: "ALTURA", value: "670 MM" }
+      - { label: "ALTURA", value: "660 MM" }
       - { label: "LARGURA", value: "410 MM" }
       - { label: "PROFUNDIDADE", value: "430 MM" }
       - { label: "PESO", value: "30,5 KG" }
@@ -35,7 +35,7 @@ variants:
     images:
       - "/products/impact-15-pro/var2a.webp"
     dimensions:
-      - { label: "ALTURA", value: "670 MM" }
+      - { label: "ALTURA", value: "660 MM" }
       - { label: "LARGURA", value: "410 MM" }
       - { label: "PROFUNDIDADE", value: "430 MM" }
       - { label: "PESO", value: "27 KG" }

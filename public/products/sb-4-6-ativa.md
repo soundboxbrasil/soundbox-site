@@ -10,9 +10,9 @@ variants:
       - "/products/sb-4-6-ativa/var1a.webp"
       - "/products/sb-4-6-ativa/var2a.webp"
     dimensions:
-      - { label: "ALTURA", value: "970 MM" }
-      - { label: "LARGURA", value: "220 MM" }
-      - { label: "PROFUNDIDADE", value: "300 MM" }
+      - { label: "ALTURA", value: "962 MM" }
+      - { label: "LARGURA", value: "210 MM" }
+      - { label: "PROFUNDIDADE", value: "296 MM" }
       - { label: "PESO", value: "28 KG" }
     specs:
       - { label: "POTÊNCIA MÁXIMA", value: "500W RMS" }

@@ -10,9 +10,9 @@ variants:
       - "/products/omne-1000-ativa/var1a.webp"
       - "/products/omne-1000-ativa/var2a.webp"
     dimensions:
-      - { label: "ALTURA", value: "710 MM" }
-      - { label: "LARGURA", value: "490 MM" }
-      - { label: "PROFUNDIDADE", value: "580 MM" }
+      - { label: "ALTURA", value: "675 MM" }
+      - { label: "LARGURA", value: "495 MM" }
+      - { label: "PROFUNDIDADE", value: "582 MM" }
       - { label: "PESO", value: "55 KG" }
     specs:
       - { label: "POTÊNCIA MÁXIMA", value: "300W RMS (4 OHMS)" }

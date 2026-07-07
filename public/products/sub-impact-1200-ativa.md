@@ -12,7 +12,7 @@ variants:
     dimensions:
       - { label: "ALTURA", value: "540 MM" }
       - { label: "LARGURA", value: "595 MM" }
-      - { label: "PROFUNDIDADE", value: "695 MM" }
+      - { label: "PROFUNDIDADE", value: "690 MM" }
       - { label: "PESO", value: "53 KG" }
     specs:
       - { label: "POTÊNCIA MÁXIMA", value: "1200W RMS (4 OHMS)" }

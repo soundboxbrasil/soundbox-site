@@ -9,9 +9,9 @@ variants:
     images:
       - "/products/impact-12-pro/var1a.webp"
     dimensions:
-      - { label: "ALTURA", value: "595 MM" }
+      - { label: "ALTURA", value: "612 MM" }
       - { label: "LARGURA", value: "370 MM" }
-      - { label: "PROFUNDIDADE", value: "425 MM" }
+      - { label: "PROFUNDIDADE", value: "420 MM" }
       - { label: "PESO", value: "28 KG" }
     specs:
       - { label: "POTÊNCIA LOW", value: "500W (4 OHMS) 350W (8 OHMS)" }
@@ -34,9 +34,9 @@ variants:
     images:
       - "/products/impact-12-pro/var2a.webp"
     dimensions:
-      - { label: "ALTURA", value: "595 MM" }
+      - { label: "ALTURA", value: "612 MM" }
       - { label: "LARGURA", value: "370 MM" }
-      - { label: "PROFUNDIDADE", value: "425 MM" }
+      - { label: "PROFUNDIDADE", value: "420 MM" }
       - { label: "PESO", value: "24 KG" }
     specs:
       - { label: "POTÊNCIA MÁXIMA", value: "350W RMS" }

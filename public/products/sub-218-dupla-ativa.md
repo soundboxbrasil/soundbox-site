@@ -12,9 +12,9 @@ variants:
       - "/products/sub-218-dupla-ativa/var2a.webp"
 
     dimensions:
-      - { label: "ALTURA", value: "1103 MM" }
-      - { label: "LARGURA", value: "570 MM" }
-      - { label: "PROFUNDIDADE", value: "660 MM" }
+      - { label: "ALTURA", value: "1116 MM" }
+      - { label: "LARGURA", value: "545 MM" }
+      - { label: "PROFUNDIDADE", value: "650 MM" }
       - { label: "PESO", value: "97 KG" }
     specs:
       - { label: "POTÊNCIA MÁXIMA", value: "1600W RMS (4 OHMS)" }

@@ -9,9 +9,9 @@ variants:
     images:
       - "/products/swx-18/var1a.webp"
     dimensions:
-      - { label: "ALTURA", value: "730 MM" }
-      - { label: "LARGURA", value: "545 MM" }
-      - { label: "PROFUNDIDADE", value: "750 MM" }
+      - { label: "ALTURA", value: "656 MM" }
+      - { label: "LARGURA", value: "548 MM" }
+      - { label: "PROFUNDIDADE", value: "710 MM" }
       - { label: "PESO", value: "65 KG" }
     specs:
       - { label: "POTÊNCIA MÁXIMA", value: "1000W (4 OHMS) 600W (8 OHMS)" }

@@ -9,9 +9,9 @@ variants:
     images:
       - "/products/swx-12/var1a.webp"
     dimensions:
-      - { label: "ALTURA", value: "530 MM" }
+      - { label: "ALTURA", value: "508 MM" }
       - { label: "LARGURA", value: "400 MM" }
-      - { label: "PROFUNDIDADE", value: "555 MM" }
+      - { label: "PROFUNDIDADE", value: "550 MM" }
       - { label: "PESO", value: "36 KG" }
     specs:
       - { label: "POTÊNCIA MÁXIMA", value: "600W (4 OHMS) 450W (8 OHMS)" }

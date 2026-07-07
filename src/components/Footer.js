@@ -17,7 +17,7 @@ export default function Footer() {
         </Link>
         <div className="flex gap-6">
           <a 
-            href="https://instagram.com/soundbox" 
+            href="https://instagram.com/soundboxbrasil" 
             aria-label="Instagram" 
             target="_blank" 
             rel="noopener noreferrer"
@@ -26,7 +26,7 @@ export default function Footer() {
             <IconBrandInstagram size={24} />
           </a>
           <a 
-            href="https://facebook.com/soundbox" 
+            href="https://facebook.com/soundboxbrasil" 
             aria-label="Facebook" 
             target="_blank" 
             rel="noopener noreferrer"

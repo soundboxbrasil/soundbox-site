@@ -10,9 +10,9 @@ variants:
       - "/products/delta-10-monitor-plus/var1a.webp"
       - "/products/delta-10-monitor-plus/var1b.webp"
     dimensions:
-      - { label: "ALTURA", value: "400 MM" }
-      - { label: "LARGURA", value: "385 MM" }
-      - { label: "PROFUNDIDADE", value: "450 MM" }
+      - { label: "ALTURA", value: "394 MM" }
+      - { label: "LARGURA", value: "375 MM" }
+      - { label: "PROFUNDIDADE", value: "445 MM" }
       - { label: "PESO", value: "15 KG" }
     specs:
       - { label: "POTÊNCIA MÁXIMA", value: "300W (4 OHMS) 210W (8 OHMS)" }

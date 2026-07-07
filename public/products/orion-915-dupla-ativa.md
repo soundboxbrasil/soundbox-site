@@ -10,9 +10,9 @@ variants:
       - "/products/orion-915-dupla-ativa/var1a.webp"
       - "/products/orion-915-dupla-ativa/var2a.webp"
     dimensions:
-      - { label: "ALTURA", value: "1130 MM" }
-      - { label: "LARGURA", value: "450 MM" }
-      - { label: "PROFUNDIDADE", value: "450 MM" }
+      - { label: "ALTURA", value: "1120 MM" }
+      - { label: "LARGURA", value: "426 MM" }
+      - { label: "PROFUNDIDADE", value: "432 MM" }
       - { label: "PESO", value: "43 KG" }
     specs:
       - { label: "POTÊNCIA MÁXIMA", value: "400W RMS" }

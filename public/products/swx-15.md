@@ -9,9 +9,9 @@ variants:
     images:
       - "/products/swx-15/var1a.webp"
     dimensions:
-      - { label: "ALTURA", value: "610 MM" }
+      - { label: "ALTURA", value: "590 MM" }
       - { label: "LARGURA", value: "455 MM" }
-      - { label: "PROFUNDIDADE", value: "625 MM" }
+      - { label: "PROFUNDIDADE", value: "630 MM" }
       - { label: "PESO", value: "44 KG" }
     specs:
       - { label: "POTÊNCIA MÁXIMA", value: "1000W (4 OHMS) 600W (8 OHMS)" }

@@ -10,9 +10,9 @@ variants:
       - "/products/delta-10-monitor-plus/DELTA-PLUS-MONITOR-1252x1536.webp"
       - "/products/delta-10-monitor-plus/DELTA-10-MON-PLUS-FRE.webp" # Exemplo de imagem adicional
     dimensions:
-      - { label: "ALTURA", value: "385 MM" }
-      - { label: "LARGURA", value: "350 MM" }
-      - { label: "PROFUNDIDADE", value: "430 MM" }
+      - { label: "ALTURA", value: "380 MM" }
+      - { label: "LARGURA", value: "335 MM" }
+      - { label: "PROFUNDIDADE", value: "425 MM" }
       - { label: "PESO", value: "14,5 KG" }
     specs:
       - { label: "POTÊNCIA MÁXIMA", value: "250W (4 OHMS) 180W (8 OHMS)" }

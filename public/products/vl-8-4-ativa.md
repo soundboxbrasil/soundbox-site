@@ -11,8 +11,8 @@ variants:
       - "/products/vl-8-4-ativa/var1b.webp"
       - "/products/vl-8-4-ativa/var2a.webp"
     dimensions:
-      - { label: "ALTURA", value: "1200 MM" }
-      - { label: "LARGURA", value: "135 MM" }
+      - { label: "ALTURA", value: "1194 MM" }
+      - { label: "LARGURA", value: "132 MM" }
       - { label: "PROFUNDIDADE", value: "160 MM" }
       - { label: "PESO", value: "15 KG" }
     specs:

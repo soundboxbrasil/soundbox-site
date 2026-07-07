@@ -5,14 +5,14 @@ bannerBg: "/images/hero.webp"
 bannerCover: "/products/line-208-pro/banner.webp"
 
 variants:
-  - title: "LINE 208 PRO"
+  - title: "LINE 208"
     images:
       - "/products/line-208-pro/var2b.webp"
       - "/products/line-208-pro/var2a.webp"
       
     dimensions:
-      - { label: "ALTURA", value: "270 MM" }
-      - { label: "LARGURA", value: "685 MM" }
+      - { label: "ALTURA", value: "267 MM" }
+      - { label: "LARGURA", value: "674 MM" }
       - { label: "PROFUNDIDADE", value: "405 MM" }
       - { label: "PESO", value: "29,7 KG" }
     specs:

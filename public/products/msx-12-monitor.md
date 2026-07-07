@@ -9,9 +9,9 @@ variants:
     images:
       - "/products/msx-12-monitor/var1a.webp"
     dimensions:
-      - { label: "ALTURA", value: "420 MM" }
-      - { label: "LARGURA", value: "455 MM" }
-      - { label: "PROFUNDIDADE", value: "535 MM" }
+      - { label: "ALTURA", value: "410 MM" }
+      - { label: "LARGURA", value: "450 MM" }
+      - { label: "PROFUNDIDADE", value: "530 MM" }
       - { label: "PESO", value: "22 KG" }
     specs:
       - { label: "POTÊNCIA MÁXIMA", value: "500W RMS (4 OHMS) 320W RMS (8 OHMS)" }

@@ -10,9 +10,9 @@ variants:
       - "/products/thunder-15-ativa/var1a.webp"
       - "/products/thunder-15-ativa/var2a.webp"
     dimensions:
-      - { label: "ALTURA", value: "1190 MM" }
-      - { label: "LARGURA", value: "450 MM" }
-      - { label: "PROFUNDIDADE", value: "450 MM" }
+      - { label: "ALTURA", value: "1100 MM" }
+      - { label: "LARGURA", value: "411 MM" }
+      - { label: "PROFUNDIDADE", value: "430 MM" }
       - { label: "PESO", value: "43 KG" }
     specs:
       - { label: "POTÊNCIA LOW", value: "600W RMS" }

@@ -9,9 +9,9 @@ variants:
     images:
       - "/products/kit-genesis/var1a.webp"
     dimensions:
-      - { label: "ALTURA", value: "400 MM" }
-      - { label: "LARGURA", value: "385 MM" }
-      - { label: "PROFUNDIDADE", value: "450 MM" }
+      - { label: "ALTURA", value: "395 MM" }
+      - { label: "LARGURA", value: "375 MM" }
+      - { label: "PROFUNDIDADE", value: "445 MM" }
       - { label: "PESO", value: "14 KG" }
     specs:
       - { label: "POTÊNCIA CANAL A", value: "200 W (4 OHMS)" }
@@ -30,9 +30,9 @@ variants:
     images:
       - "/products/kit-genesis/var2a.webp"
     dimensions:
-      - { label: "ALTURA", value: "400 MM" }
-      - { label: "LARGURA", value: "385 MM" }
-      - { label: "PROFUNDIDADE", value: "450 MM" }
+      - { label: "ALTURA", value: "395 MM" }
+      - { label: "LARGURA", value: "375 MM" }
+      - { label: "PROFUNDIDADE", value: "445 MM" }
       - { label: "PESO", value: "11 KG" }
     specs:
       - { label: "POTÊNCIA MÁXIMA", value: "150 W RMS" }
@@ -44,9 +44,9 @@ variants:
     images:
       - "/products/kit-genesis/banner.webp"
     dimensions:
-      - { label: "ALTURA", value: "520 MM" }
-      - { label: "LARGURA", value: "350 MM" }
-      - { label: "PROFUNDIDADE", value: "360 MM" }
+      - { label: "ALTURA", value: "510 MM" }
+      - { label: "LARGURA", value: "345 MM" }
+      - { label: "PROFUNDIDADE", value: "355 MM" }
       - { label: "PESO", value: "11 KG" }
     specs:
       - { label: "POTÊNCIA MÁXIMA", value: "150 W RMS" }
